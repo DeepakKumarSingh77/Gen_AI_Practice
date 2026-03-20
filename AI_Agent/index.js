@@ -3,7 +3,7 @@ import readlineSync from "readline-sync";
 
 const History = [];
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyBsk4ZmAm9AQ8TprFx5-GgFxnHqL5MFbLQ",
+  apiKey: "Write_here_Gemini_APIkey",
 });
 
 function sum({ num1, num2 }) {
